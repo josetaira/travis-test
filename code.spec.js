@@ -5,7 +5,7 @@ describe("TestClass", function() {
   });
   
   it("should be loving you til we're 70", function() {
-    expect(window.Testclass.doItAgain()).toBe("'Til we're 70");
+    expect(window.TestClass.doItAgain()).toBe("'Til we're 70");
   });
   
 });

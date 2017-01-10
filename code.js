@@ -9,7 +9,7 @@
   };
   
   TestClass.doItAgain = function() {
-    return "'Til we're 17";
+    return "'Til we're 70";
   };
   
   window.TestClass = TestClass;
